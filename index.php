@@ -19,5 +19,6 @@
 <h1>CRC Auto deploy demo</h1>
 <h2><?php echo "This is PHP revision 11"; ?></h2>
 <h2><?php echo date('l jS \of F Y h:i:s A'); ?></h2>
+<h2><?php echo $_SERVER['SERVER_ADDR']; ?></h2>
 </body>
 </html>

@@ -1,7 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Demo website</title>
+	<title>CRC Demo website</title>
+		<style>
+			body {
+				text-align: center;
+				background-color: #4fbfff;
+				/* background-color: #4bae5d; */
+				font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+				color: white;
+			}
+		</style>
 </head>
 <body>
 <h1>CRC Auto deploy demo</h1>

@@ -5,6 +5,6 @@
 </head>
 <body>
 <h1>Hello world!</h1>
-<?php echo "This is PHP" ?>
+<h2><?php echo "This is PHP version 2" ?></h2>
 </body>
 </html>
